@@ -18,6 +18,8 @@ zuul:
     users:
       path: /users/**
       url: http://localhost:8081
+      path: /pessoa/**
+      url: http://localhost:8081
     categories:
       path: /categories/**
       url: http://localhost:8082
