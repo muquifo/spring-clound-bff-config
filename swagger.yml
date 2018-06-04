@@ -1,0 +1,13 @@
+swagger: 2.7
+
+info:
+  version: 1.0.0
+  title: API Teste
+  description: API teste
+  contact:
+    name: Estudo Spring Clound
+    url: http://fale-conosco.com.br
+    email: suporte@suporte.com.br
+
+schemes:
+  - https
